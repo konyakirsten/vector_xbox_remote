@@ -30,8 +30,8 @@ TURN_SPEEDS_MMPS = {"max": 100.0, "medium": 50.0, "precision": 30.0}
 DRIVE_SPEEDS_MMPS = {"max": 150.0, "medium": 75.0, "precision": 50.0}
 WHEEL_ACCEL_FACTOR = 4.0
 
-MAX_HEAD_RAD_S = 0.45
-MAX_LIFT_RAD_S = 0.35
+MAX_HEAD_RAD_S = 1.0
+MAX_LIFT_RAD_S = 1.0
 DEADZONE = 0.14
 LOOP_HZ = 20
 
