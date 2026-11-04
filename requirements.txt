@@ -1,0 +1,2 @@
+wirepod_vector_sdk
+pygame
